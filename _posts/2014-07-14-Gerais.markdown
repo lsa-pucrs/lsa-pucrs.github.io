@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: controlesft1.png
+img: 3geraisft.png
 alt: image-alt
 overlay-text: "OUTROS DISPOSITIVOS"
 description: Projetos autônomos gerais
