@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: minidroneft.png
+alt: image-alt
+overlay-text: "MINI UAVs"
+description: mini drones muito legais
+---
