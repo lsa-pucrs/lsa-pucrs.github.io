@@ -11,15 +11,15 @@ overlay-text: "UAVs "  # Texto que aparecerá sobre a imagem
 
 <img src="{{ site.baseurl }}/img/portfolio/dronehexa1ft.png" alt="Foto do drone em ação" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">
 
-aaaa
+texto aqui 
 ### quadracopteros 1
 <img src="{{ site.baseurl }}/img/portfolio/cabin.png" alt="Foto do drone em ação" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">  
 
-bbbb
+texto aqui 
 ### quadracopteros 2
 <img src="{{ site.baseurl }}/img/portfolio/game.png" alt="Foto do drone em ação" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">
 
-cccc
+texto aqui 
 
 
 ---

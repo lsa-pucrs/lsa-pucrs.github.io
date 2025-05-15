@@ -50,6 +50,8 @@ CSS E CONFIG GERAIS
 
 quase todos os CSS estão no /includes/css/main
 
+a maior parte das configuração como modals, about, portfoloio_grid estão em _includes
+
 algumas cores estão setados como secundarias e primarias para configuar essas cores vá até _config.yml e ache o color
 
 outras config como título principal etc... tbm estão em config.yml

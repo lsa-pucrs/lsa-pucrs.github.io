@@ -4,7 +4,7 @@ modal-id: 3
 date: 2014-07-16
 img: 4terrestreft.png
 alt: image-alt
-overlay-text: "VEICULOS TERRESTRES"
+overlay-text: "VEÍCULOS TERRESTRES"
 description: carrinhos são como os barcos só que na terra e pequenos
 ---
 ### Tarmo 5 RC car
@@ -17,7 +17,7 @@ Veiculo terrestre, feito com base em um [projeto](https://github.com/robotics-pu
 ### aranha robótica
 <img src="{{ site.baseurl }}/img/portfolio/spiderftDone.png" alt="Foto do drone em ação" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">
 
-a aranha subiu pela parede veio a chuva forte e ela n caiu pq ela é um robo 
+texto aqui 
 
 ### detector de minas terrestres
 
