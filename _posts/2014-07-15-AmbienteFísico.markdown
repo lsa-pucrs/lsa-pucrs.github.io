@@ -4,6 +4,6 @@ modal-id: 4
 date: 2014-07-15
 img: minidroneft1Done.png
 alt: image-alt
-overlay-text: "MINI UAVs"
+overlay-text: "AMBIENTE FÍSICO"
 description: texto aqui
 ---

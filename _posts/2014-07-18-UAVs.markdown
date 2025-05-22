@@ -2,24 +2,155 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dronehexa2ft.png
+img: dronescapaft.png
 alt: image-alt
-description: Drones são legais
+description: 
 overlay-text: "UAVs "  # Texto que aparecerá sobre a imagem
 ---
 ### Hexa 
 
 <img src="{{ site.baseurl }}/img/portfolio/dronehexa1ft.png" alt="Foto do drone em ação" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">
 
-texto aqui 
-### quadracopteros 1
-<img src="{{ site.baseurl }}/img/portfolio/dron2ft1.png" alt="Foto do drone em ação" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">  
+##### Modelo do contralador
 
-texto aqui 
-### quadracopteros 2
-<img src="{{ site.baseurl }}/img/portfolio/drone3ft1.png" alt="Foto do drone em ação" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">
+Pixhawk 2.4.8 Flight Control
 
-texto aqui 
+##### Modelos dos motores
+
+ 6 motores Turnigy D3536 / 9 910KV Brushless Outrunner Motor
+
+##### Escs
+
+ 6 ESCs TURNIGY 40A
+
+##### GPS
+
+ Readytosky Ublox NEO M8N GPS e 3DR uBlox GPS With Compass
+
+##### Receptor
+
+ FrSky X8R 8/16 Ch Receiver  
+
+##### Bateria
+
+ Bateria Lipo 5200mah 4s 40c 14.8v
+
+##### Telemetria
+
+SiK Telemetry Radio V3 - 915MHz
+
+##### Frame
+
+ S550 Hexacopter Frame 
+
+##### Buzzer 
+
+
+### quadracopteros Generic
+<img src="{{ site.baseurl }}/img/portfolio/drone3ft1.png" alt="Foto do drone em ação" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">  
+
+##### Modelo do contralador
+
+Raspberry Pi 3B+ com Navio2 Autopilot shield
+
+##### Modelos dos motores
+
+4 motores  RCTimer BC2212 930KV Outrunner Brushless Motor
+
+##### Escs 
+
+4 RCTimer ESC 30A 
+
+##### Gps
+
+Navio2 Autopilot shield
+
+##### Receptor 
+
+FrSky X8R 8/16 Ch Receiver
+
+##### Bateria
+
+Bateria Lipo 5200mah 4s 40c 14.8v
+
+##### Telemetria
+
+Navio2 GPS/GNSS Antenna
+
+##### Frame
+
+Generic Quadcopter Frame ??
+
+
+### quadracoptero FY450
+<img src="{{ site.baseurl }}/img/portfolio/dron2ft1.png" alt="Foto do drone em ação" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">
+
+##### Modelo do contralador
+
+ Raspberry Pi 3B+ com Navio2 Autopilot shield
+
+##### Modelos dos motores
+
+ 2 motores Racerstar BR2216 Racing Edition 810kv CW e 2 motores Racerstar BR2216 Racing Edition 810kv CCW
+
+##### Escs
+
+ 3D Robotics ESC 20A
+
+##### Gps 
+
+Navio2 Autopilot shield
+
+##### Receptor
+
+FrSky X8R 8/16 Ch Receiver
+
+##### Bateria
+
+ Bateria Lipo 5200mah 4s 40c 14.8v
+
+##### Telemetria
+
+ Navio2 GPS/GNSS Antenna
+
+##### Frame
+
+ Tarot FY450 Quadcopter Frame??
+
+### tricoptero
+
+<img src="{{ site.baseurl }}/img/portfolio/tricopft1.png" alt="Foto do drone em ação" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">
+
+##### Modelo do contralador
+
+##### Modeloss dos motores
+
+##### Escs
+
+##### Gps
+
+##### Receptor
+
+##### Bateria
+
+##### Telemetria
+
+### Mini UAVs
+<img src="{{ site.baseurl }}/img/portfolio/minidroneft1Done.png" alt="Foto do drone em ação" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">
+
+##### Modelo do contralador
+
+##### Modeloss dos motores
+
+##### Escs
+
+##### Gps
+
+##### Receptor
+
+##### Bateria
+
+##### Telemetria
 
 
 ---
