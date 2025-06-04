@@ -30,3 +30,16 @@ View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-the
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
+
+
+## ENVIRONMENT SETUP
+
+- use `rbenv` (see https://github.com/rbenv/rbenv) to install ruby `rbenv install 2.7.0`
+- install jekyll requirements (see https://jekyllrb.com/docs/) 
+- install jekyll and bundler gems `gem install jekyll bundler`
+- install app dependencies `bundle install` (from app source dir)
+
+## RUNNING THE APP
+
+- `bundle exec jekyll serve --livereload`
+
