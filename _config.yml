@@ -32,24 +32,23 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Localização
-  social: Pela web
+  copyright: Copyright &copy; 2024-2025 Laboratório de Sistemas Autônomos da PUCRS
+  location: Endereço
+  social: github
   credits:  
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-
   - title: github
     url: https://github.com/robotics-pucrs/robotics-pucrs.github.io
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: PUC-RS 
-  - line: Escola Politecnica
-  - line: Porto Alegre, RS, Brasil
-  - line: Prédio 32, 7 andar, sala 725
-  
+  - line: Laboratório de Sistemas Autônomos
+  - line: Escola Politecnica da PUCRS
+  - line: Av. Ipiranga, 6681 Sala 32/725
+  - line: Porto Alegre - Brasil - 90619-900
+  - line: Fone +55 (51) 3353-8700
 
 # Credits content
 credits: 

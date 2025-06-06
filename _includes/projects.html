@@ -1,9 +1,9 @@
 <!-- INFRAESTRUTURA -->
-<section id="infrastructure">
+<section id="projects" style="background:#ddd">
   <div class="container portfolio-flex-grid">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2>Infraestrutura</h2>
+        <h2>Projetos</h2>
         <hr style="
           width: 60%; 
           height: 4px; 
@@ -15,7 +15,7 @@
     </div>
     <div class="portfolio-flex-row">
       {% for post in site.posts %}
-      {% if post.categories[1] == 'infrastructure' %}
+      {% if post.categories[1] == 'projects' %}
       <div class="portfolio-flex-item portfolio-item">
         <div class="image-text-hover">
         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
@@ -28,7 +28,7 @@
         </a>
         </div>
       </div>
-      {% endif %}
+      {% endif%}
       {% endfor %}
     </div>
   </div>
