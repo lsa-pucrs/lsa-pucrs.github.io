@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 100
+date: 2014-07-15
+img: project-historico.png
+alt: image-alt
+overlay-text: 
+description: Projetos Anteriores a 2024
+---
+<hr />
+<ul style="text-align:left">
+  <li><a href="https://github.com/disaster-robotics-proalertas">https://github.com/disaster-robotics-proalertas</a></li>
+  <li><a href="https://github.com/imr-pucrs">https://github.com/imr-pucrs</a></li>
+  <li><a href="https://github.com/lsa-pucrs">https://github.com/lsa-pucrs</a></li>
+  <li><a href="https://github.com/mir-pucrs">https://github.com/mir-pucrs</a></li>
+  <li><a href="https://github.com/Robotics-and-Robots">https://github.com/Robotics-and-Robots</a></li>
+</ul>

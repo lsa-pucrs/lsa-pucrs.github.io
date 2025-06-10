@@ -1,12 +1,12 @@
 # Site settings
 title: Laboratório de Sistemas Autônomos 
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
+email: 
+url: https://github.com/robotics-pucrs
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 #skills: <span>UAVs &bull; Barcos &bull; Veículos Trrestres &bull; Mini UAVs &bull; Humanoides &bull; Gerais</span>
 skills: Escola Politécnica &bull; PUCRS
-meta_author: LastName FirstName
+meta_author: LSA
 
 # Google webmaster tools
 google_verify:
@@ -36,12 +36,12 @@ footer:
   copyright: Copyright &copy; 2024-2025 Laboratório de Sistemas Autônomos da PUCRS
   location: Endereço
   social: github
-  credits:  
+  credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
-    url: https://github.com/robotics-pucrs/robotics-pucrs.github.io
+    url: https://github.com/robotics-pucrs
 
 # Postal address (add as many lines as necessary)
 address:
