@@ -2,7 +2,7 @@
 layout: default
 modal-id: 101
 date: 2014-07-15
-img: project_aimfta.png
+img: project-aimfta.png
 alt: image-alt
 overlay-text: 
 description: 2022-2026

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: boatft1.png
+img: infra-usvs.png
 alt: image-alt
 description: texto aqui
 overlay-text: "USVs"
@@ -10,12 +10,12 @@ overlay-text: "USVs"
 
 ### Custom USV ver. A (2x unidades)
 
-<img src="{{ site.baseurl }}/img/portfolio/boatft1.png" alt="Foto do drone em ação" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">
+<img src="{{ site.baseurl }}/img/portfolio/infra-usvs.png" alt="Foto do drone em ação" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">
 
 **Especificações**: *redacted*; Propulsão estilo *hovercraft*. **Condições**: em desenvolvimento.
 
 ### Custom USV ver. B
 
-<img src="{{ site.baseurl }}/img/portfolio/boatft1.png" alt="Foto do drone em ação" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">
+<img src="{{ site.baseurl }}/img/portfolio/infra-usvs.png" alt="Foto do drone em ação" style="width: 80%; max-width: 600px; height: auto; border: 1px solid #ddd;">
 
 **Especificações**: *redacted*; Propulsão estilo turbina sub-aquática.**Condições**: operacional.
