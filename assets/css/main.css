@@ -50,11 +50,11 @@ footer, header, hgroup, menu, nav, section {
 	margin-right: 3px;
 }
 
-.banner-vid{
+.banner-vid {
 	position: fixed;
-	top: 0;
+	top: -400px;
 	left: 0;
-	min-width: 100%;
+	min-width: 120%;
 	min-height: 100%;
 	z-index: -1;
 	object-fit: cover;
@@ -2434,6 +2434,8 @@ input, select, textarea {
 					color: #242943;
 				}
 
+				
+
 					ul.pagination li > .page.active:hover {
 						background-color: #9bf1ff;
 						color: #242943 !important;
@@ -3982,3 +3984,7 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+	#contact, #footer{
+		background-color: #242943;
+	}
