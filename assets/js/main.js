@@ -332,4 +332,15 @@
 
 			});
 
+	$("a.lang-icon").click(function(){
+		var lang = $(this).find("img").attr("src").includes("br-lang") ? "pt" : "en";
+		var currentPath = window.location.pathname;
+		var newPath = currentPath;
+		if(lang === "en"){
+			newPath = currentPath.replace("/pt/", "/en/");
+		} else {
+			newPath = currentPath.replace("/en/", "/pt/");
+		}
+		window.location.href = newPath;
+	});
 })(jQuery);

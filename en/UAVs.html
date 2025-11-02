@@ -6,11 +6,12 @@
 -->
 <html>
 	<head>
-		<title>Landing - Forty by HTML5 UP</title>
+			<title>LSA - Laboratório de Sistemas Autônomos / PUCRS</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.min.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="../assets/css/main.css" />
+
+		<noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
 
@@ -20,8 +21,15 @@
 				<!-- Header -->
 				<!-- Note: The "styleN" class below should match that of the banner element. -->
 					<header id="header" class="alt style2">
-						<a href="index.html" class="logo"><strong>Forty</strong> <span>by HTML5 UP</span></a>
+						<a href="index.html" class="logo">
+							<strong id="logo-wrapper">
+								<img id="logo-upper" src="../images/Logo-Pucrs.png">
+							</strong>
+							<span>LSA: Laboratório de Sistemas Autônomos</span>
+						</a>
 						<nav>
+							<a href="#" class="lang-icon"><img src="../images/langs/br-lang.png" onclick="" /></a>
+							<a href="#" class="lang-icon"><img src="../images/langs/us-lang.png" onclick="" /></a>
 							<a href="#menu">Menu</a>
 						</nav>
 					</header>
@@ -45,14 +53,13 @@
 					<section id="banner" class="style2">
 						<div class="inner">
 							<span class="image">
-								<img src="images/pic07.jpg" alt="" />
+								<img src="../images/uav/front_hexa2.png" alt="" />
 							</span>
 							<header class="major">
-								<h1>Landing</h1>
+								<h1>UAVs - Veículos Aéreos Não-Tripulados</h1>
 							</header>
 							<div class="content">
-								<p>Lorem ipsum dolor sit amet nullam consequat<br />
-								sed veroeros. tempus adipiscing nulla.</p>
+								<p>UAVs, também chamados de "drones", possuem aplicações como monitoramento ambiental, agricultura de precisão, mapeamento de lavouras, segurança e defesa, reconhecimento, mineração e logística. Estas aplicações permitem reduzir custos operacionais, maximizar a eficiência e, em muitos casos, reduzir o risco para a vida humana em tarefas perigosas.</p>
 							</div>
 						</div>
 					</section>
@@ -138,52 +145,43 @@
 					</div>
 
 				<!-- Contact -->
+				
+				<!-- Contact -->
 					<section id="contact">
 						<div class="inner">
 							<section>
-								<form method="post" action="#">
-									<div class="fields">
-										<div class="field half">
-											<label for="name">Name</label>
-											<input type="text" name="name" id="name" />
-										</div>
-										<div class="field half">
-											<label for="email">Email</label>
-											<input type="text" name="email" id="email" />
-										</div>
-										<div class="field">
-											<label for="message">Message</label>
-											<textarea name="message" id="message" rows="6"></textarea>
-										</div>
-									</div>
-									<ul class="actions">
-										<li><input type="submit" value="Send Message" class="primary" /></li>
-										<li><input type="reset" value="Clear" /></li>
-									</ul>
-								</form>
+								<img src="../images/pucrs.png" width="200px" />
+								<img src="../images/polift.png"  width="200px" />
+								<img src="../images/gaph.png" width="200px"/><br />
+
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2337.7184590434945!2d-51.174660478845084!3d-30.061690034624412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95199d56020fa221%3A0xb8e054515bb82463!2sEscola%20Polit%C3%A9cnica%20da%20PUCRS%20-%20Pr%C3%A9dio%2032!5e0!3m2!1sen!2sbr!4v1757899041717!5m2!1sen!2sbr" width="608" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 							</section>
 							<section class="split">
 								<section>
 									<div class="contact-method">
-										<span class="icon solid alt fa-envelope"></span>
-										<h3>Email</h3>
-										<a href="#">information@untitled.tld</a>
+										<span class="icon brands alt fa-github"></span>
+										<h3>Github</h3>
+										<a href="https://github.com/lsa-pucrs">https://github.com/lsa-pucrs</a>
 									</div>
 								</section>
 								<section>
 									<div class="contact-method">
 										<span class="icon solid alt fa-phone"></span>
-										<h3>Phone</h3>
-										<span>(000) 000-0000 x12387</span>
+										<h3>Telefone</h3>
+										<span>+55 (51) 3353-8700</span>
 									</div>
 								</section>
 								<section>
 									<div class="contact-method">
 										<span class="icon solid alt fa-home"></span>
-										<h3>Address</h3>
-										<span>1234 Somewhere Road #5432<br />
-										Nashville, TN 00000<br />
-										United States of America</span>
+										<h3>Endereço</h3>
+										<span>
+											Laboratório de Sistemas Autônomos<br />
+											Escola Politecnica da PUCRS<br />
+											Av. Ipiranga, 6681 Sala 32/725<br />
+											Porto Alegre - Brasil - 90619-900
+
+										</span>
 									</div>
 								</section>
 							</section>
@@ -201,7 +199,7 @@
 								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 							</ul>
 							<ul class="copyright">
-								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+								<li>&copy; LSA</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
 							</ul>
 						</div>
 					</footer>
@@ -209,13 +207,13 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/jquery.scrolly.min.js"></script>
+			<script src="../assets/js/jquery.scrollex.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
 
 	</body>
 </html>

@@ -3988,3 +3988,13 @@ input, select, textarea {
 	#contact, #footer{
 		background-color: #242943;
 	}
+
+.lang-icon img{
+	width: 30px;
+	height: 30px;
+	margin-top: 20px;
+}
+
+.lang-icon:hover{
+	opacity: 0.5;
+}
