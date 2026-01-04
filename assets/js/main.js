@@ -332,6 +332,7 @@
 
 			});
 
+	// Language switcher
 	$("a.lang-icon").click(function(){
 		var lang = $(this).find("img").attr("src").includes("br-lang") ? "pt" : "en";
 		var currentPath = window.location.pathname;
@@ -343,4 +344,5 @@
 		}
 		window.location.href = newPath;
 	});
+
 })(jQuery);

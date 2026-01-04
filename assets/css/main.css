@@ -3998,3 +3998,31 @@ input, select, textarea {
 .lang-icon:hover{
 	opacity: 0.5;
 }
+
+.ppl-holder{
+
+	line-height: 2.5;
+}
+
+.ppl{
+	background-color: #444963;
+	border-radius: 25px;
+	padding:10px;
+	color:lightgray;
+	font-weight: bold;
+	margin:2px;
+	font-size: 16px;
+	white-space: nowrap;
+	margin-bottom: 2px;
+}
+
+.ppl a{
+	border:0px;
+	padding:0;
+}
+
+.ppl a img{
+	width: 30px;
+	height: 30px;
+	margin-bottom: -9px;
+}
